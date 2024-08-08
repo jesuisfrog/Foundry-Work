@@ -2,6 +2,9 @@
 
 Since Github does not allow nested repositories, this will list all the custom work for Foundry VTT.
 
+## - [Pathfinder 2e Foundry System](https://github.com/jesuisfrog/pf2e)
+Miscellaneous improvements to the existing system for Pathfinder Second Edition on Foundry VTT 
+
 ## - [pergashaFoundryvtt](https://github.com/jesuisfrog/pergashaFoundryvtt)
 Custom game system for Foundry VTT, homebrew DnD5e system for the Pergasha (:copyright:) setting.
 
